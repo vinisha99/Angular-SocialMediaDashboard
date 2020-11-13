@@ -1,6 +1,6 @@
 # Preview of Signup Page
 
-To have a preview of the sign up page please visit: https://angry-wiles-c3c21c.netlify.app
+To have a preview of the sign up page please visit: https://condescending-rosalind-08f041.netlify.app/
 
 # SMDashBoard
 
