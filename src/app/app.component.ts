@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'SMDashBoard';
+  status: boolean = false;
+
+  getdetails(){
+    this.status = !this.status;       
+  }
+
+
+
+
 }

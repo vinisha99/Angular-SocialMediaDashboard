@@ -1,3 +1,7 @@
+# Preview of Signup Page
+
+To have a preview of the sign up page please visit: https://angry-wiles-c3c21c.netlify.app
+
 # SMDashBoard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.

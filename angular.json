@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SMDashBoard"
+    }
+  },
+  "defaultProject": "SMDashBoard",
+  "cli": {
+    "analytics": "dcbcce86-de90-4ada-af8d-b992a16cc3e9"
+  }
 }
