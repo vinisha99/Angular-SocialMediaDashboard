@@ -1,6 +1,9 @@
-# Preview of Signup Page
+# Preview of Social Media Dashboard
+[Preview](https://condescending-rosalind-08f041.netlify.app/)
 
-To have a preview of the sign up page please visit: https://condescending-rosalind-08f041.netlify.app/
+This is an angular project to demonstrate HTML and CSS styling with latest theme - Dark mode and light mode
+
+
 
 # SMDashBoard
 
