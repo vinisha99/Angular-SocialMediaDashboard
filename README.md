@@ -2,7 +2,7 @@
 [Preview](https://condescending-rosalind-08f041.netlify.app/)
 This is an angular project to demonstrate HTML and CSS styling with latest theme - Dark mode and light mode
 
-![Alt Dark Mode](https://github.com/vinisha99/Angular-SocialMediaDashboard/issues/1#issue-768350214)
+![Dark Mode](https://github.com/vinisha99/Angular-SocialMediaDashboard/issues/1#issue-768350214)
 
 
 # SMDashBoard
